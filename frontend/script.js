@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/produtos";
+const API_URL = "https://crud-produtos-api-upv4.onrender.com/produtos";
 
 async function carregarProdutos() {
 
